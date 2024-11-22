@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "user": "Fistr0w",
+    "password": "123456abc",
+    "name": "Tomas Agustin Suarez",
+    "age": 21,
+    "details": "probando esto?"
+  },
+  {
+    "id": 2,
+    "user": "Tomas123",
+    "password": "123abc",
+    "name": "Tomas Suarez",
+    "age": 22,
+    "details": "probando esto? v2"
+  },
+  {
+    "id": 3,
+    "user": "Tom123",
+    "password": "111Abc",
+    "name": "Tomas",
+    "age": 23,
+    "details": "probando esto? v3"
+  }
+]
